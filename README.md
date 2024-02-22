@@ -52,11 +52,4 @@ Congratulations! Your project is now set up and ready for further development.
 
 Feel free to customize the generated files according to your project requirements.
 
-```
 
-
-```
-
-```
-
-```
