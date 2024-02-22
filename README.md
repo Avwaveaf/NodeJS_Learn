@@ -54,7 +54,7 @@ Feel free to customize the generated files according to your project requirement
 
 ```
 
-You can save this content in a file with a `.md` extension, for example, `learn-create-dir.md`. Users can then refer to this markdown file for instructions on using the Node.js script.
+
 ```
 
 ```
